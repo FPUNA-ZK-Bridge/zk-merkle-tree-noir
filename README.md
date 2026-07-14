@@ -1,4 +1,4 @@
-# noir-mpt-verifier
+# zk-merkle-tree-noir
 
 Circuito en **Noir** que verifica la inclusión de una transacción Ethereum en el trie de transacciones de un bloque, validando una prueba de **Merkle Patricia Trie (MPT)** contra el `transactionsRoot` del header.
 
